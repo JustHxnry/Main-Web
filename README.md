@@ -9,3 +9,5 @@
 🎈 Version: 1.0.2<br>
 💨 Project JSON: [raw JSON](https://dev.hxnrycz.xyz/main_page/raw)
 📰 Description: <b>Official page of mine</b>
+
+![Website Status](https://img.shields.io/website?down_color=red&down_message=Offline&label=Status&style=for-the-badge&up_color=green&up_message=Online&url=https%3A%2F%2Fhxnrycz.xyz)
